@@ -1,1 +1,4 @@
-# Salman_Noori_tutorial1
+#About me
+
+##Education
+I am Salman Noori. I study electrical engineering at UCSD.
